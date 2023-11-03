@@ -1,0 +1,37 @@
+theme: 'PaperMod'
+baseURL: ''
+title: 'Papaya Code Quills'
+languageCode: en-us
+
+params:
+  homeInfoParams:
+    Title: Hi there! 👋
+    Content: Welcome to my Hogwart 🪄🧙
+
+  socialIcons: # optional
+    - name: 'github'
+      url: 'https://github.com/PapayaHUANG'
+    - name: 'applepodcasts'
+      url: 'https://podcasts.apple.com/cn/podcast/%E7%BD%91%E4%B8%8A%E9%82%BB%E5%B1%85-cyber-neighbors/id1712253447'
+
+  ShowToc: true
+  ShowBreadCrumbs: true
+
+menu:
+  main:
+    - identifier: home
+      name: Home
+      url: /
+      weight: 10
+    - identifier: categories
+      name: Categories
+      url: /categories/
+      weight: 20
+    - identifier: tags
+      name: Tags
+      url: /tags/
+      weight: 30
+    - identifier: archives
+      name: Archives
+      url: /archives/
+      weight: 40
