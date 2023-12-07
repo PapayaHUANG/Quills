@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>unix on Papaya Code Quills</title>
+    <link>/tags/unix/</link>
+    <description>Recent content in unix on Papaya Code Quills</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 05 Dec 2023 16:29:19 +0800</lastBuildDate><atom:link href="/tags/unix/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bandit 学习笔记</title>
+      <link>/posts/bandit/</link>
+      <pubDate>Tue, 05 Dec 2023 16:29:19 +0800</pubDate>
+      
+      <guid>/posts/bandit/</guid>
+      <description>Bandit 闯关日记</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -2,25 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/posts/bandit/</loc>
+    <lastmod>2023-12-05T16:29:19+08:00</lastmod>
+  </url><url>
     <loc>/categories/</loc>
-    <lastmod>2023-11-02T17:09:23+08:00</lastmod>
+    <lastmod>2023-12-05T16:29:19+08:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2023-12-05T16:29:19+08:00</lastmod>
+  </url><url>
+    <loc>/posts/</loc>
+    <lastmod>2023-12-05T16:29:19+08:00</lastmod>
+  </url><url>
+    <loc>/tags/shell/</loc>
+    <lastmod>2023-12-05T16:29:19+08:00</lastmod>
+  </url><url>
+    <loc>/categories/studynotes/</loc>
+    <lastmod>2023-12-05T16:29:19+08:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2023-12-05T16:29:19+08:00</lastmod>
+  </url><url>
+    <loc>/tags/unix/</loc>
+    <lastmod>2023-12-05T16:29:19+08:00</lastmod>
   </url><url>
     <loc>/tags/docker/</loc>
     <lastmod>2023-11-02T17:09:23+08:00</lastmod>
   </url><url>
     <loc>/tags/nodejs/</loc>
-    <lastmod>2023-11-02T17:09:23+08:00</lastmod>
-  </url><url>
-    <loc>/</loc>
-    <lastmod>2023-11-02T17:09:23+08:00</lastmod>
-  </url><url>
-    <loc>/posts/</loc>
-    <lastmod>2023-11-02T17:09:23+08:00</lastmod>
-  </url><url>
-    <loc>/categories/studynotes/</loc>
-    <lastmod>2023-11-02T17:09:23+08:00</lastmod>
-  </url><url>
-    <loc>/tags/</loc>
     <lastmod>2023-11-02T17:09:23+08:00</lastmod>
   </url><url>
     <loc>/tags/wget/</loc>
